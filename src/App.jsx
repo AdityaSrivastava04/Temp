@@ -53,7 +53,7 @@ import Assessment from "./components/SuperAdminDashboard/Assessment";
 import AdminLogin from "./components/SuperAdminDashboard/AdminLogin";
 
 // Backend API URL
-// export const API_URL = "http://localhost:8000/api";
+export const API_URL = "http://localhost:8000/api";
 
 function App() {
   const googleClientId =
